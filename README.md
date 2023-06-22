@@ -7,3 +7,4 @@ you can find branches guide at the table below
 | **Branch name** | **Files**            |
 | :-------------: | -------------------- |
 |    session 1    | variables, functions |
+|    session 2    | this, datatypes, if-statement, loop, nullish values, logical-operators |
